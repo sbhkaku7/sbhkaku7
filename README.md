@@ -11,7 +11,7 @@ I’m a developer with 3+ years of experience building scalable backend systems 
 - **Backend:** Spring Boot, REST APIs, Kafka, Microservices  
 - **Frontend:** React.js, HTML, CSS, Tailwind  
 - **Database:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, Docker, Kafka Connect, Shopify, AWS basics  
+- **Tools & Platforms:** Git, Shopify, AWS basics  
 
 ---
 
