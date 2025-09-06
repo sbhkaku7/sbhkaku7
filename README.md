@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer | Java | Spring Boot | React | APIs | Shopify**  
 
-I’m a developer with 2+ years of experience building scalable backend systems and modern frontend applications. I enjoy solving real-world problems with clean code, automation, and system design.  
+I’m a developer with 3+ years of experience building scalable backend systems and modern frontend applications. I enjoy solving real-world problems with clean code, automation, and system design.  
 
 ---
 
